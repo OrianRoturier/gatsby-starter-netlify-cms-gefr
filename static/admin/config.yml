@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  epo: OrianRoturier/gatsby-starter-netlify-cms-gefr
   branch: master
   commit_messages:
     create: 'Create {{collection}} “{{slug}}”'
