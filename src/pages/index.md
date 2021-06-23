@@ -8,11 +8,8 @@ mainpitch:
   title: What is growth engineering?
   description: >-
     "Product Growth is the discipline of applying the scientific method to
-    business KPIs." - Andrew Chen.\  
-
-    \
-
-    Add in the right technical tools, and you get growth engineering.
+    business KPIs." - Andrew Chen.  
+        Add in the right technical tools, and you get growth engineering.
 description: Do you ever get tired of marketing bullshit? This site aims at
   gathering proven marketing and growth strategies that actually work, with a
   strong focus on B2B SaaS.
