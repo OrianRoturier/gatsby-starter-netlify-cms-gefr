@@ -1,50 +1,35 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Welcome to growth engineering
+image: /img/luke-chesser-jkutrj4vk00-unsplash.jpg
+heading: Sharing engineering knowledge for Growth teams
+subheading: Applying data, science and technology to B2B SaaS marketing
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: What is growth engineering?
+  description: >-
+    "Product Growth is the discipline of applying the scientific method to
+    business KPIs." - Andrew Chen.\  
+
+    \
+
+    Add in the right technical tools, and you get growth engineering.
+description: Do you ever get tired of marketing bullshit? This site aims at
+  gathering proven marketing and growth strategies that actually work, with a
+  strong focus on B2B SaaS.
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+    - image: /img/isaac-smith-6entpvppl6i-unsplash-2-.jpg
+      text: 'Growth - which used to be called "Demand generation" in marketing teams
+        from the early 00s - is what most companies aim for nowadays. '
+    - image: /img/franki-chamaki-1k6iqsqbizi-unsplash.jpg
+      text: Taking the right decisions with Data with advanced analytics. How?
+        Measure, analyze, and give insights.
+    - image: /img/rachit-tank-2cfz_fb08um-unsplash.jpg
+      text: Product Marketing is the art of making your product understandable to your
+        market. You obviously need an amazing product to grow, but you also need
+        to position it in your market.
+    - image: /img/hans-reniers-lqgjcmy5qcm-unsplash-1-.jpg
+      text: Experiment fast and often. It's the only way to go forward.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
