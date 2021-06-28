@@ -14,7 +14,7 @@ const Footer = class extends React.Component {
         <div className="content has-text-centered">
           <img
             src={logo}
-            alt="Kaldi"
+            alt="Growth-Engineer.fr"
             style={{ width: '14em', height: '10em' }}
           />
         </div>
@@ -81,7 +81,7 @@ const Footer = class extends React.Component {
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="twitter" href="https://twitter.com">
+                <a title="twitter" href="https://twitter.com/OrianRoturier">
                   <img
                     className="fas fa-lg"
                     src={twitter}
